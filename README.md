@@ -103,17 +103,11 @@
 <table>
   <tr>
     <th>Docker</th>
-    <th>Docker Compose</th>
   </tr>
   <tr>
     <td align="center" width="111">
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="40">
-      </a>
-    </td>
-    <td align="center" width="111">
-      <a href="https://docs.docker.com/compose/">
-        <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" alt="Docker Compose" width="44"/>
       </a>
     </td>
   </tr>
