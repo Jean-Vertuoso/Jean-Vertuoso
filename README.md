@@ -2,7 +2,7 @@
 
 ###  🛠️ Este é um perfil vivo, está sempre mudando e estou sempre adicionando material novo. 🖥️ 
 
-### Até o momento, essas são as tecnologias que você vai encontrar por aqui:
+### Até o momento, essas são algumas tecnologias que eu já tive contato:
 ### Backend:
 <table>
   <tr>
